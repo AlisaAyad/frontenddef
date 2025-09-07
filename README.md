@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Alisa Ayad
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -36,7 +36,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  [link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp](https://nl.gymshark.com/?gclsrc=aw.ds&gad_source=1&gad_campaignid=11606057178&gbraid=0AAAAADMZ0ip95yzEhBVnaQJyY_o5sIB7Q&gclid=Cj0KCQjwzt_FBhCEARIsAJGFWVkS4zssUXbkSnPdxbd_8Xn5vMB9gWKt18_8Ny78-uhuf-3MUnqanHcaAhAPEALw_wcB)
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
