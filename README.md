@@ -40,12 +40,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="<img width="2560" height="1402" alt="image" src="https://github.com/user-attachments/assets/6c11ef7c-07b4-432d-9cc7-afd373d8c53c" />
+" width="375px" alt="omschrijving van de pagina">
+<img width="752" height="1336" alt="image" src="https://github.com/user-attachments/assets/13fede2c-f844-4df2-8842-4fb5a117e707" />
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+ <img width="2556" height="1434" alt="image" src="https://github.com/user-attachments/assets/e154e1bb-fed9-47f2-9a5e-77fcfc52dd63" />
+
+
 </details>
 
 
